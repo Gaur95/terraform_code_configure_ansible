@@ -35,8 +35,6 @@ variable "secret_key" {
 ```
 terraform init
 ```
-- Review and customize the terraform.tfvars file if necessary. This file contains variables such as AWS region, instance type, and SSH key name.
-
 ## Apply the Terraform configuration to create the infrastructure:
 
 ```
