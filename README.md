@@ -16,7 +16,7 @@ Before running this Terraform script, ensure you have the following:
 
 ```
 git clone https://github.com/Gaur95/terraform_code_configure_ansible.git
-cd terraform-aws-ec2
+cd terraform_code_configure_ansible
 ```
 ## Create a var.tf file and populate it with your AWS access key and secret key:
 ```
